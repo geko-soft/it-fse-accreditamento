@@ -1,0 +1,52 @@
+{
+    "appVendor": "Gekosoft srl",
+    "appID": "gekosoft-fse",
+    "appVersion": "1.0",
+    "results": [
+        {
+            "id": "66",
+            "ts": "2026-06-01T12:40:00Z",
+            "traceId": "7a8e5e1f71dc6c0289881825edf8b4c1",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.110.4.4.577a569dbe4f31f74dab44162b7ede593fd7eeb24c352df599a85ed0d6520646.445d483c5c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "66_VALIDAZIONE_CDA2_LDO_CT8_KO.pdf"
+            ]
+        },
+        {
+            "id": "154",
+            "ts": "2026-06-01T12:40:00Z",
+            "traceId": "271f8740f450b421f5fc9368a78cfdbe",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.110.4.4.26cbac7352acc72e494263d25dbfa18f0926d63b4ba29f933dadc9a4d13f5899.7070e9c484^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "154_VALIDAZIONE_CDA2_RSA_CT8_KO.pdf"
+            ]
+        },
+        {
+            "id": "159",
+            "ts": "2026-06-01T12:40:01Z",
+            "traceId": "64a0ad233ee0627d892e1fee4469b23d",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.110.4.4.3572dec2baab1bd473b82c7271f7e9cf8528ba39ed8cf80e16e9df187a75e1fd.1695cbb60f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "159_VALIDAZIONE_CDA2_RSA_CT13_KO.pdf"
+            ]
+        },
+        {
+            "id": "448",
+            "ts": "2026-06-01T12:40:01Z",
+            "traceId": "04c4b0c94dfe3765e87be01b2f2b6a83",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.110.4.4.4d9a4c3e322a8e9dd5b843567d10372fec5bb4a81d644842c1531c3a55ea0859.d8dd03ded9^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "448_VALIDAZIONE_CDA2_RSA_CT24.pdf"
+            ]
+        },
+        {
+            "id": "450",
+            "ts": "2026-06-01T12:40:02Z",
+            "traceId": "4823d90856f27ededcd7042e663bd4de",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.110.4.4.85b21578cc6410fbd0e15f0a08d5e26f7708d0272730b902a9500f0bae40ef2d.7150f940a0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "450_VALIDAZIONE_CDA2_LDO_CT17.pdf"
+            ]
+        }
+    ]
+}
